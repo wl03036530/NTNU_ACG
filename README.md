@@ -43,4 +43,6 @@ L : 光源方向
 ![image](https://github.com/wl03036530/NTNU_ACG/blob/main/1.png)  
 反射後往光源方向散射(有目的性散射)  
 ![image](https://github.com/wl03036530/NTNU_ACG/blob/main/2.png)
-
+### 探討不同反射公式造成的影響
+在final資料夾中只render光的顏色  
+**圖中純黑的地方是光源永遠不會打進去的點**

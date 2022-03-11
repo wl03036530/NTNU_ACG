@@ -1,0 +1,1 @@
+double weight = (cos(M_PI*dot(-1*r.direction(), rec.normal)/180.0))*(cos(M_PI*dot((vec3(0, 2, 0)-rec.p)/(vec3(0, 2, 0)-rec.p).length(), rec.normal)/180.0));

@@ -46,3 +46,5 @@ L : 光源方向
 ### 探討不同反射公式造成的影響
 在final資料夾中只render光的顏色  
 **圖中純黑的地方是光源永遠不會打進去的點**
+
+Reference: https://raytracing.github.io/books/RayTracingInOneWeekend.html

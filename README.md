@@ -40,7 +40,7 @@ L : 光源方向
 ## final project
 考慮不同反射公式  
 反射後全散射  
-![image](https://user-images.githubusercontent.com/34053246/157871328-889e8cd5-2c75-4093-88f3-e833b899956b.png)
+![image](https://user-images.githubusercontent.com/34053246/157871328-889e8cd5-2c75-4093-88f3-e833b899956b.png)  
 反射後往光源方向散射(有目的性散射)  
 ![image](https://user-images.githubusercontent.com/34053246/157871482-26272c01-78c9-4e97-8750-d2d4192b7fb4.png)
 
